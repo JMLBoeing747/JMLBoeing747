@@ -5,7 +5,7 @@
         - passagers ou fret
         - locomotives ou remorques
         - électriques ou diesel (mais électrique c'est meilleur pour la planète)
-    - les métros (particulièrement le métro de Montréal)
+    - les métros (particulièrement le [métro de Montréal](http://www.metrodemontreal.com))
         - À pneus ou à roues d'acier
         - Avec peu ou beaucoup de monde (s'il y a beaucoup de monde, je préfère être avec des amis)
     - les lignes d'autobus
@@ -34,7 +34,7 @@ et ce sera avec plaisir que je vous répondrerai dans les plus brefs délais, et
 Sinon, si ce n'est pas pour me demander de l'aide, apprenez-moi des trucs si l'intuition vous le dit,
 parce que comme on le dit, on apprend tous les jours, même après notre mort (quoi ?).
 
-Et pourtant, je sais seulement que je ne sais rien (Socrate)
+*Et pourtant, je sais seulement que je ne sais rien (Socrate)*
 
 <!---
 JMLBoeing747/JMLBoeing747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
