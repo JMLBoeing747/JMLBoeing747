@@ -1,24 +1,24 @@
 - 👋 Salut ! Je m'appelle @JMLBoeing747 et je suis très enchanté de vous connaitre !
 - 👀 Je suis intéressé par
-    - les avions (tant les gros que les petits, les anciens comme les modernes)
-    - les trains de tous genres :
+    - les avions ✈️ (tant les gros que les petits, les anciens comme les modernes)
+    - les trains de tous genres 🚅 :
         - passagers ou fret
         - locomotives ou remorques
         - électriques ou diesel (mais électrique c'est meilleur pour la planète)
-    - les métros (particulièrement le [métro de Montréal](http://www.metrodemontreal.com))
+    - les métros 🚇 (particulièrement le [métro de Montréal](http://www.metrodemontreal.com))
         - À pneus ou à roues d'acier
         - Avec peu ou beaucoup de monde (s'il y a beaucoup de monde, je préfère être avec des amis)
-    - les lignes d'autobus
+    - les lignes d'autobus 🚌
     - le [REM](https://rem.info)
-    - la musique (piano notamment, mais je n'en reste pas là !)
-    - les excursions et les explorations urbaines et naturelles
+    - la musique 🎵 (piano notamment, mais je n'en reste pas là !)
+    - les excursions et les explorations urbaines et naturelles ⛰️
     - l'humour (il faudra qu'on se parle si vous voulez en savoir plus)
     - l'histoire
     - les langues
-    - les maths (ouf je l'avais presque oublié celui-là, et pourtant j'en suis un fan)
+    - les maths 💯 (ouf je l'avais presque oublié celui-là, et pourtant j'en suis un fan)
     - l'art (peintures et dessins au crayon, au pastel, à la mine, au marqueur, à la craie, qui représentent du concret et de l'abstrait)
-    - la mécanique (automobile, ferroviaire, aéronautique, ...)
-    - et bien sûr, l'informatique.
+    - la mécanique ⚙️ (automobile, ferroviaire, aéronautique, ...)
+    - et bien sûr, l'informatique. 💻
 
 - 🌱 Je suis en train d'étudier
     - le merveilleux et mystérieux domaine de l'informatique
